@@ -6,6 +6,11 @@
 
  //Variables
  @import "base/variables";
+ // Default styles
+ @import "base/default";
 
+
+ // assets/stylesheets/application.scss
  // Partials - メインのcssファイル
-  @import "partials/layout/*";
+ @import "partials/*";
+ @import "partials/layout/*";
