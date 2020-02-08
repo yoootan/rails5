@@ -1,2 +1,5 @@
+require 'navigation_helper.rb'
+
 module ApplicationHelper
-end
+include NavigationHelper
+  end
