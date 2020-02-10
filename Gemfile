@@ -34,7 +34,7 @@ gem 'factory_bot_rails'
 gem 'rails-controller-testing'
 gem 'headless'
 gem 'poltergeist'
-
+gem 'faker'
 gem 'database_cleaner'
 
 group :development, :test do
